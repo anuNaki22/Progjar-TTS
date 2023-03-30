@@ -2,11 +2,11 @@ This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
 Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
 Licensed to The Apache Software Foundation, http://www.apache.org/
 
-Benchmarking 0.0.0.0 (be patient)
+Benchmarking 172.16.16.101 (be patient)
 
 
 Server Software:        myserver/1.0
-Server Hostname:        0.0.0.0
+Server Hostname:        172.16.16.101
 Server Port:            8442
 SSL/TLS Protocol:       TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,2048,256
 Server Temp Key:        X25519 253 bits
